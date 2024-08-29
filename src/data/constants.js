@@ -271,7 +271,7 @@ export const projects = [
     description:
       "A Registration App is a digital platform designed to facilitate user sign-ups for various services, events, or accounts. It typically includes features like a user-friendly registration form where individuals input personal details such as name, email, password, and other relevant information. The app securely stores this data in a backend database and may include functionalities like email verification, user authentication, and profile management. ",
     image:
-      "https://i.pinimg.com/originals/99/94/6e/99946e9b28fb44307942a11c5956cdeb.png",
+      "https://w3layouts.com/wp-content/uploads/2017/07/event_registration_form_Free29-06-2017_1219919468.jpg",
     tags: ["HTML","CSS"],
     category: "static web app",
     github: "https://github.com/YugandharNaik22/Event-Registartion-Form",
